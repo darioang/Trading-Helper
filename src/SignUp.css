@@ -1,0 +1,48 @@
+.App {
+    text-align: center;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+ 
+.App__form {
+    display: flex;
+    flex-direction: column;
+}
+ 
+input {
+    padding: 7px 11px;
+    border-radius: 3px;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 20px;
+    outline: none;
+    position: relative;
+    bottom: 400px;
+    left: 0px;
+}
+ 
+.a {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 7px 12px;
+    border-radius: 4px;
+    position: relative;
+    bottom: 400px;
+}
+
+.caption {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.caption1 {
+    position: relative;
+    bottom: 400px;
+}
+
+.b {
+    position: relative;
+    bottom: 400px;
+}

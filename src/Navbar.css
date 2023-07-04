@@ -1,0 +1,49 @@
+nav li {
+    list-style-type: None
+}
+
+nav li {
+    margin-right: 50px;
+    padding: 10px;
+}
+
+nav {
+    background-color: lightyellow;
+}
+
+.login_button {  
+    padding: 10px;
+    background-color: #333;
+    border: none;
+    cursor: pointer; 
+    position: relative;
+    left: 1120px;
+}
+
+.sign_up_button {
+    padding: 10px;
+    background-color: #333;
+    border: none;
+    cursor: pointer; 
+    position: relative;
+    left: 1100px;
+}
+
+.sign_out_button{
+    padding: 10px;
+    background-color: #9b9393;
+    border: none;
+    cursor: pointer; 
+    position: relative;
+    left: 1120px;
+}
+
+.tradingDiaryButton{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.fundingRateButton{
+    cursor: pointer;
+    text-decoration: underline;
+}

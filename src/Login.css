@@ -1,0 +1,16 @@
+.caption2{
+    font-weight: bold;
+    font-size: x-large;
+    position: relative;
+    bottom: 50px;
+}
+
+.error-message {
+    position: relative;
+    bottom: 420px;
+}
+
+.caption3 {
+    position: relative;
+    bottom: 400px;
+}
