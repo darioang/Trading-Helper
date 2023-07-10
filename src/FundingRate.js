@@ -64,8 +64,8 @@ function FundingRate() {
             }
           }
 
-          rate_24 = (rate_24 * 365 * 100).toFixed(2);
-          rate_3d = ((rate_3d / 3) * 365 * 100).toFixed(2);
+          rate_24 = (Number(rate_24) * 365 * 100).toFixed(2);
+          rate_24 = (Number(rate_24) * 365 * 100).toFixed(2);
 
           funding_24.push(rate_24);
           funding_3d.push(rate_3d);
