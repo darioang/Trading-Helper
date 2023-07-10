@@ -47,7 +47,6 @@ function FundingRate() {
         const current_time = Date.now();
 
         for (let i = 0; i < results.length; i++) {
-          const symbol = perps[i];
           const funding_rates = results[i];
 
           let rate_24 = 0;
