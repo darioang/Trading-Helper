@@ -12,6 +12,9 @@ Features of the application: Usage of Bybit API to gather data on altcoins, usag
 
 [Watch it here!](https://youtu.be/c-2nxSX9v9Q)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c-2nxSX9v9Q/0.jpg)](https://www.youtube.com/watch?v=c-2nxSX9v9Q)
+
+
 ## Tech Stack
 
 - ReactJS
